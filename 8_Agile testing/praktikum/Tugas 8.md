@@ -9,6 +9,7 @@ dan pada tahapan maintenance melakukan perbaikan, mendukung pengguna sistem dan 
 
 2. Menurut teman-teman apa tantangan ketika menerapkan agile testing? berikan penjelasan pada masing-masing 5 poin agile testing masifesto!
 Jawab: 
+
 testing manifesto
 - pengujian adalah aktivitas bukan fase.
 - mencegah bug.
